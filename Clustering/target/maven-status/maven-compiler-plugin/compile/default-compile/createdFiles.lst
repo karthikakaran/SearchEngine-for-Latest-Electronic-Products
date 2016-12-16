@@ -1,0 +1,11 @@
+com/ir/project/search/clustering/domain/SuccessObject.class
+com/ir/project/search/clustering/controllers/ClusteringController.class
+com/ir/project/search/clustering/cluster/ConsoleFormatter$ClusterDetailsFormatter.class
+com/ir/project/search/clustering/cluster/ClusteringDataFromLuceneWithCustomFields.class
+com/ir/project/search/clustering/domain/SearchResult.class
+com/ir/project/search/clustering/cluster/ConsoleFormatter.class
+com/ir/project/search/clustering/cluster/ClusteringDataFromLuceneWithCustomFields$CustomFieldMapper.class
+com/ir/project/search/clustering/cluster/LuceneIndexer.class
+com/ir/project/search/clustering/cluster/ClusteringDataFromLuceneWithCustomFields$StandardAnalyzerFactory.class
+com/ir/project/search/clustering/domain/ErrorObject.class
+com/ir/project/search/clustering/ClusteringApplication.class

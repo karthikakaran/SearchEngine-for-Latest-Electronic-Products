@@ -1,0 +1,31 @@
+viewport { width:device-width; scale:1; }
+
+
+
+.hero{
+
+	background-image: url("/img/529999_81765483.jpg");
+
+	height: 50vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	display: table;
+}
+
+.centerV{
+
+	display: table-cell;
+    vertical-align: middle;
+	text-align: center;	
+	color: white;
+}
+
+.centerV h1{
+	color: white;
+
+}
+
+.major{
+	margin-top: 20px;
+}

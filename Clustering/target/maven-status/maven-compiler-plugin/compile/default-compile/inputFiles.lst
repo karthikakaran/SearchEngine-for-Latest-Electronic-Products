@@ -1,0 +1,8 @@
+/home/vaishthiru/Documents/workspace-sts-3.8.2.RELEASE/Clustering/src/main/java/com/ir/project/search/clustering/domain/SearchResult.java
+/home/vaishthiru/Documents/workspace-sts-3.8.2.RELEASE/Clustering/src/main/java/com/ir/project/search/clustering/cluster/ClusteringDataFromLuceneWithCustomFields.java
+/home/vaishthiru/Documents/workspace-sts-3.8.2.RELEASE/Clustering/src/main/java/com/ir/project/search/clustering/controllers/ClusteringController.java
+/home/vaishthiru/Documents/workspace-sts-3.8.2.RELEASE/Clustering/src/main/java/com/ir/project/search/clustering/domain/ErrorObject.java
+/home/vaishthiru/Documents/workspace-sts-3.8.2.RELEASE/Clustering/src/main/java/com/ir/project/search/clustering/domain/SuccessObject.java
+/home/vaishthiru/Documents/workspace-sts-3.8.2.RELEASE/Clustering/src/main/java/com/ir/project/search/clustering/ClusteringApplication.java
+/home/vaishthiru/Documents/workspace-sts-3.8.2.RELEASE/Clustering/src/main/java/com/ir/project/search/clustering/cluster/ConsoleFormatter.java
+/home/vaishthiru/Documents/workspace-sts-3.8.2.RELEASE/Clustering/src/main/java/com/ir/project/search/clustering/cluster/LuceneIndexer.java
